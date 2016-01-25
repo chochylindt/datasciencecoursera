@@ -21,7 +21,7 @@ The latter assumption might not be realistic as enforcement of cocaine may be st
 ![Seattle Drug Crime](seattle_crime_vs_month_drug.png)
 
 Cocaine is apparently the drug of choice in Seattle. Criminal sale of cocaine decreases from June to August.
-This trend id also apparent in meth-amphetamine cases.   
+This trend is also apparent in meth-amphetamine cases.   
 However, the trend for heroin related sales seems to be the opposite. 
 Further study is needed to establish any substitutions between the drugs.
 
@@ -32,13 +32,11 @@ This is supported by the data showing no marijuana related incidents past June 2
 
 ![San Francisco Drug Crime](sf_drugcrimes_by_drug_month.png)
 
-Cocaine is again very popular in San Francisco (SF). However, in contrast to Seattle, criminal sale activity is higher in July followed by August with June being the lowest.   
-The heroin trend is also the opposite of Seattle's case with activity decreasing from June. 
-This lends weight to possible substitution between the two drugs.
+Cocaine is again very popular in San Francisco (SF). However, in contrast to Seattle, criminal sale activity is higher in July followed by August with June being the lowest. The heroin trend is also the opposite of Seattle's case with activity decreasing from June. This lends weight to possible substitution between the two drugs.
 
 The starkest contrast to Seattle is the high incidence of marijuana cases. Unlike Washington, the sale of recreational marijuana was a crime in 2014 (and still is at time of writing). We expect the incidence to fall once marijuana is decriminalised. Interestingly, the crime rate is higher in the earlier months of summer. 
 
-We also note the high incidence of meth-amphetamine cases in SF; it was nearly absent in Seattle.
+We also note the high incidence of meth-amphetamine cases in SF marginally more than the rate in Seattle.
 
 ### Conclusion & Future Work
 
