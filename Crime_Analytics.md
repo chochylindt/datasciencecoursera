@@ -14,7 +14,12 @@ We assume the sale of a drug is proportional to its demand.
 Subsequently, we also assume that detection and enforcement are uniform across the time period - reasonable considering the time period is over the summer - and across the different type of drugs. 
 The latter assumption might not be realistic as enforcement of cocaine may be stronger than marijuna, for example. 
 
+### Data and Code
+[Seattle Crime Data - Summer 2014](https://github.com/uwescience/datasci_course_materials/blob/master/assignment6/seattle_incidents_summer_2014.csv)
+[San Francisco Crime Data - Summer 2014](https://github.com/uwescience/datasci_course_materials/blob/master/assignment6/sanfrancisco_incidents_summer_2014.csv)
 
+[Seattle Code](seattle_drugcrime_vs_month_drug.R)
+[San Francisco Code](sf_drugcrime_vs_month_drug.R)
 ## Results & Discussion
 
 ### Seattle
